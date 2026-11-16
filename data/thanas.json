@@ -1,0 +1,786 @@
+[
+  {
+    "code": "mirpur",
+    "nameEn": "Mirpur",
+    "nameBn": "মিরপুর",
+    "stationEn": "Mirpur Model Thana",
+    "stationBn": "মিরপুর মডেল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.36311,
+        23.80439
+      ]
+    },
+    "address": "Mirpur-2, Dhaka",
+    "phone": "+8801199883734, +88-02-9001001"
+  },
+  {
+    "code": "pallabi",
+    "nameEn": "Pallabi",
+    "nameBn": "পল্লবী",
+    "stationEn": "Pallabi Thana",
+    "stationBn": "পল্লবী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.36643,
+        23.82602
+      ]
+    },
+    "address": "Pallabi-12, Dhaka",
+    "phone": "+8801199883735, +88-02-9015922"
+  },
+  {
+    "code": "kafrul",
+    "nameEn": "Kafrul",
+    "nameBn": "কাফরুল",
+    "stationEn": "Kafrul Thana",
+    "stationBn": "কাফরুল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38149,
+        23.80128
+      ]
+    },
+    "address": "Mirpur-14, Dhaka",
+    "phone": "+8801769914772, +88-02-9001061"
+  },
+  {
+    "code": "mohammadpur",
+    "nameEn": "Mohammadpur",
+    "nameBn": "মোহাম্মদপুর",
+    "stationEn": "Mohammadpur Thana",
+    "stationBn": "মোহাম্মদপুর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.36389,
+        23.75543
+      ]
+    },
+    "address": "Block#E, Mohammadia Housing Estate, Sat Mosjid Road, Dhaka",
+    "phone": "+8801199883742, +88-02-9119943"
+  },
+  {
+    "code": "adabor",
+    "nameEn": "Adabor",
+    "nameBn": "আদাবর",
+    "stationEn": "Adabor Thana",
+    "stationBn": "আদাবর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.35936,
+        23.77117
+      ]
+    },
+    "address": "House#105/A, Ring road, Shamoli, Dhaka",
+    "phone": "+8801199867799, +88-02-9133265"
+  },
+  {
+    "code": "dhanmondi",
+    "nameEn": "Dhanmondi",
+    "nameBn": "ধানমন্ডি",
+    "stationEn": "Dhanmondi Thana",
+    "stationBn": "ধানমন্ডি থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38156,
+        23.7433
+      ]
+    },
+    "address": "R#6, H#21, Dhanmondi, Dhaka",
+    "phone": "+8801199883622, +88-02-8631941"
+  },
+  {
+    "code": "kalabagan",
+    "nameEn": "Kalabagan",
+    "nameBn": "কলাবাগান",
+    "stationEn": "Kalabagan Thana",
+    "stationBn": "কলাবাগান থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.3884,
+        23.74339
+      ]
+    },
+    "address": "30 North Road, Vutergoli, Kalabagan, Dhaka",
+    "phone": "+88-02-9665254"
+  },
+  {
+    "code": "tejgaon",
+    "nameEn": "Tejgaon",
+    "nameBn": "তেজগাঁও",
+    "stationEn": "Tejgaon Thana",
+    "stationBn": "তেজগাঁও থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.39197,
+        23.76223
+      ]
+    },
+    "address": "56 Tejkunipara, Farmgate, Dhaka",
+    "phone": "+88-02-9119444"
+  },
+  {
+    "code": "gulshan",
+    "nameEn": "Gulshan",
+    "nameBn": "গুলশান",
+    "stationEn": "Gulshan Thana",
+    "stationBn": "গুলশান থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41533,
+        23.79143
+      ]
+    },
+    "address": "H-32, 115 Gulshan Avenue, Gulshan-2, Dhaka",
+    "phone": "+8801191001144, +88-02-9895826"
+  },
+  {
+    "code": "banani",
+    "nameEn": "Banani",
+    "nameBn": "বনানী",
+    "stationEn": "Banani Thana",
+    "stationBn": "বনানী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40186,
+        23.79004
+      ]
+    },
+    "address": "R-7, H-37, Banani, Dhaka",
+    "phone": "+88-02-9894032"
+  },
+  {
+    "code": "uttara-west",
+    "nameEn": "Uttara West",
+    "nameBn": "উত্তরা পশ্চিম",
+    "stationEn": "Uttara West Thana",
+    "stationBn": "উত্তরা পশ্চিম থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38744,
+        23.87572
+      ]
+    },
+    "address": "H-48, Road No 18, Sector 11, Uttara, Dhaka",
+    "phone": "+8801769058065, +88-02-8991315"
+  },
+  {
+    "code": "ramna",
+    "nameEn": "Ramna",
+    "nameBn": "রমনা",
+    "stationEn": "Ramna Model Thana",
+    "stationBn": "রমনা মডেল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40466,
+        23.74571
+      ]
+    },
+    "address": "Old Elephant Road, Ramna, Dhaka",
+    "phone": "+8801199883720, +88-02-9350468"
+  },
+  {
+    "code": "badda",
+    "nameEn": "Badda",
+    "nameBn": "বাড্ডা",
+    "stationEn": "Badda Thana",
+    "stationBn": "বাড্ডা থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42736,
+        23.77141
+      ]
+    },
+    "address": "H-12/A, R-17, DIT Project, Marul Badda, Dhaka",
+    "phone": "+8801191001155, +88-02-9882625"
+  },
+  {
+    "code": "bangshal",
+    "nameEn": "Bangshal",
+    "nameBn": "বংশাল",
+    "stationEn": "Bangshal Thana",
+    "stationBn": "বংশাল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40752,
+        23.71565
+      ]
+    },
+    "address": "English Road, Fazlul Haque Community Center (2nd Floor), Bangshal, Dhaka",
+    "phone": "+8801199883723, +88-02-9565700"
+  },
+  {
+    "code": "bimanbandar",
+    "nameEn": "Bimanbandar (Airport)",
+    "nameBn": "বিমানবন্দর",
+    "stationEn": "Bimanbandar Thana",
+    "stationBn": "বিমানবন্দর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40907,
+        23.85028
+      ]
+    },
+    "address": "1st Floor RAB (HQ), Uttara, Dhaka",
+    "phone": "+8801191001166, +88-02-8901853"
+  },
+  {
+    "code": "cantonment",
+    "nameEn": "Cantonment",
+    "nameBn": "ক্যান্টনমেন্ট",
+    "stationEn": "Cantonment Thana",
+    "stationBn": "ক্যান্টনমেন্ট থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38849,
+        23.80671
+      ]
+    },
+    "address": "MES Jia Koloni, Cantonment, Dhaka",
+    "phone": "+8801199883739, +88-02-8712350"
+  },
+  {
+    "code": "chalkbazar",
+    "nameEn": "Chalkbazar",
+    "nameBn": "চকবাজার",
+    "stationEn": "Chalkbazar Thana",
+    "stationBn": "চকবাজার থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.39575,
+        23.71714
+      ]
+    },
+    "address": "Bakshi Bazar Road, Dhaka",
+    "phone": "+8801199883724, +88-02-7313966"
+  },
+  {
+    "code": "dakshinkhan",
+    "nameEn": "Dakshinkhan",
+    "nameBn": "দক্ষিণখান",
+    "stationEn": "Dakshinkhan Thana",
+    "stationBn": "দক্ষিণখান থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42682,
+        23.86042
+      ]
+    },
+    "address": "Bidurbari Road, Thana More, Dhaka",
+    "phone": "+8801191001188, +88-02-8931777"
+  },
+  {
+    "code": "darus-salam",
+    "nameEn": "Darus Salam",
+    "nameBn": "দারুস সালাম",
+    "stationEn": "Darus Salam Thana",
+    "stationBn": "দারুস সালাম থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.345,
+        23.79203
+      ]
+    },
+    "address": "100 Golartek, Mirpur, Dhaka",
+    "phone": "+8801199802025, +88-02-8032333"
+  },
+  {
+    "code": "demra",
+    "nameEn": "Demra",
+    "nameBn": "ডেমরা",
+    "stationEn": "Demra Thana",
+    "stationBn": "ডেমরা থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.4974,
+        23.72849
+      ]
+    },
+    "address": "Bowani Jute Mills, Demra, Dhaka",
+    "phone": "+8801199883727, +88-02-7501155"
+  },
+  {
+    "code": "gandaria",
+    "nameEn": "Gandaria",
+    "nameBn": "গেন্ডারিয়া",
+    "stationEn": "Gandaria Thana",
+    "stationBn": "গেন্ডারিয়া থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42106,
+        23.69956
+      ]
+    },
+    "address": "Keshab Benarjee Road, Dhaka",
+    "phone": "+8801199883733, +88-02-7453294"
+  },
+  {
+    "code": "hazaribagh",
+    "nameEn": "Hazaribagh",
+    "nameBn": "হাজারীবাগ",
+    "stationEn": "Hazaribagh Thana",
+    "stationBn": "হাজারীবাগ থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.36519,
+        23.73471
+      ]
+    },
+    "address": "98/2 Gojmohal, Hazaribagh, Dhaka",
+    "phone": "+8801199883722, +88-02-9669900"
+  },
+  {
+    "code": "jatrabari",
+    "nameEn": "Jatrabari",
+    "nameBn": "যাত্রাবাড়ী",
+    "stationEn": "Jatrabari Thana",
+    "stationBn": "যাত্রাবাড়ী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.43381,
+        23.7094
+      ]
+    },
+    "address": "Dhaka-Demra Highway, Tipu Sultan Road, Dhaka",
+    "phone": "+8801199883729, +88-02-7546244"
+  },
+  {
+    "code": "kamrangirchar",
+    "nameEn": "Kamrangirchar",
+    "nameBn": "কামরাঙ্গীরচর",
+    "stationEn": "Kamrangirchar Thana",
+    "stationBn": "কামরাঙ্গীরচর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.36747,
+        23.70973
+      ]
+    },
+    "address": "Signboard, Asrafabad, Kamrangirchar, Dhaka",
+    "phone": "+8801199883725, +88-02-7320323"
+  },
+  {
+    "code": "khilgaon",
+    "nameEn": "Khilgaon",
+    "nameBn": "খিলগাঁও",
+    "stationEn": "Khilgaon Thana",
+    "stationBn": "খিলগাঁও থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42527,
+        23.75101
+      ]
+    },
+    "address": "Khilgaon Taltola Market, Block#A, Dhaka",
+    "phone": "+8801191003388, +88-02-7219090"
+  },
+  {
+    "code": "khilkhet",
+    "nameEn": "Khilkhet",
+    "nameBn": "খিলক্ষেত",
+    "stationEn": "Khilkhet Thana",
+    "stationBn": "খিলক্ষেত থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41982,
+        23.82813
+      ]
+    },
+    "address": "R-1, Nikunjo-2 (South Side), Khilkhet, Dhaka",
+    "phone": "+8801199883611, +88-02-8911786"
+  },
+  {
+    "code": "kadamtali",
+    "nameEn": "Kadamtali",
+    "nameBn": "কদমতলী",
+    "stationEn": "Kadamtali Thana",
+    "stationBn": "কদমতলী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.45769,
+        23.69732
+      ]
+    },
+    "address": "Rayerbagh Road, Mujahidnagar, Dhaka",
+    "phone": "+8801199883732, +88-02-7547755"
+  },
+  {
+    "code": "kotwali",
+    "nameEn": "Kotwali",
+    "nameBn": "কোতোয়ালী",
+    "stationEn": "Kotwali Thana",
+    "stationBn": "কোতোয়ালী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40905,
+        23.70724
+      ]
+    },
+    "address": "2 No Simson Road, Kotwali, Dhaka",
+    "phone": "+8801199883646, +88-02-7116255"
+  },
+  {
+    "code": "lalbagh",
+    "nameEn": "Lalbagh",
+    "nameBn": "লালবাগ",
+    "stationEn": "Lalbagh Thana",
+    "stationBn": "লালবাগ থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.37924,
+        23.72061
+      ]
+    },
+    "address": "Shaheed Nagar, RND Road, House#24, Dhaka",
+    "phone": "+8801199883721, +88-02-9660105"
+  },
+  {
+    "code": "motijheel",
+    "nameEn": "Motijheel",
+    "nameBn": "মতিঝিল",
+    "stationEn": "Motijheel Thana",
+    "stationBn": "মতিঝিল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41702,
+        23.73004
+      ]
+    },
+    "address": "140 Motijheel C/A, Dhaka",
+    "phone": "+8801199883726, +88-02-9571000"
+  },
+  {
+    "code": "mugda",
+    "nameEn": "Mugda",
+    "nameBn": "মুগদা",
+    "stationEn": "Mugda Thana",
+    "stationBn": "মুগদা থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.43335,
+        23.72889
+      ]
+    },
+    "address": "Wapdagoli, Mugda, Dhaka",
+    "phone": "+88-02-7549722"
+  },
+  {
+    "code": "new-market",
+    "nameEn": "New Market",
+    "nameBn": "নিউ মার্কেট",
+    "stationEn": "New Market Thana",
+    "stationBn": "নিউ মার্কেট থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38693,
+        23.73316
+      ]
+    },
+    "address": "Nilkhet Katabon Road, Dhaka",
+    "phone": "+8801199883627, +88-02-8631942"
+  },
+  {
+    "code": "paltan",
+    "nameEn": "Paltan",
+    "nameBn": "পল্টন",
+    "stationEn": "Paltan Model Thana",
+    "stationBn": "পল্টন মডেল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41142,
+        23.73176
+      ]
+    },
+    "address": "Paltan VIP Road, Paltan, Dhaka",
+    "phone": "+8801199883737, +88-02-9360802"
+  },
+  {
+    "code": "rampura",
+    "nameEn": "Rampura",
+    "nameBn": "রামপুরা",
+    "stationEn": "Rampura Thana",
+    "stationBn": "রামপুরা থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.44367,
+        23.76132
+      ]
+    },
+    "address": "House#21, Block#H, Road#3/1, Khilgaon, Dhaka",
+    "phone": "+8801794449924, +88-02-7290999"
+  },
+  {
+    "code": "rupnagar",
+    "nameEn": "Rupnagar",
+    "nameBn": "রূপনগর",
+    "stationEn": "Rupnagar Thana",
+    "stationBn": "রূপনগর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.35431,
+        23.82326
+      ]
+    },
+    "address": "House#10/A, Road#8, Section#7, Arambagh, Dhaka",
+    "phone": "+88-02-9002177"
+  },
+  {
+    "code": "sabujbagh",
+    "nameEn": "Sabujbagh",
+    "nameBn": "সবুজবাগ",
+    "stationEn": "Sabujbagh Thana",
+    "stationBn": "সবুজবাগ থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.4284,
+        23.74057
+      ]
+    },
+    "address": "202 Moddho Basabo, Dhaka",
+    "phone": "+8801199883736, +88-02-7219988"
+  },
+  {
+    "code": "shah-ali",
+    "nameEn": "Shah Ali",
+    "nameBn": "শাহ আলী",
+    "stationEn": "Shah Ali Thana",
+    "stationBn": "শাহ আলী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.35636,
+        23.79747
+      ]
+    },
+    "address": "Road#1, Section#1, Block#B, House#29, Shah Ali, Dhaka",
+    "phone": "+8801199883625, +88-02-9002777"
+  },
+  {
+    "code": "shahbagh",
+    "nameEn": "Shahbagh",
+    "nameBn": "শাহবাগ",
+    "stationEn": "Shahbagh Thana",
+    "stationBn": "শাহবাগ থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.39627,
+        23.73715
+      ]
+    },
+    "address": "Shahbagh More, Shahbagh, Dhaka",
+    "phone": "+88-02-9676699"
+  },
+  {
+    "code": "shahjahanpur",
+    "nameEn": "Shahjahanpur",
+    "nameBn": "শাহজাহানপুর",
+    "stationEn": "Shahjahanpur Thana",
+    "stationBn": "শাহজাহানপুর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42538,
+        23.7389
+      ]
+    },
+    "address": "Shahjahanpur Railway Colony, Dhaka",
+    "phone": "+88-02-9360535"
+  },
+  {
+    "code": "sutrapur",
+    "nameEn": "Sutrapur",
+    "nameBn": "সূত্রাপুর",
+    "stationEn": "Sutrapur Thana",
+    "stationBn": "সূত্রাপুর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41823,
+        23.70248
+      ]
+    },
+    "address": "37 Water Road, Dhaka",
+    "phone": "+8801713373143, +88-02-7116233"
+  },
+  {
+    "code": "shyampur",
+    "nameEn": "Shyampur",
+    "nameBn": "শ্যামপুর",
+    "stationEn": "Shyampur Thana",
+    "stationBn": "শ্যামপুর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.43127,
+        23.69191
+      ]
+    },
+    "address": "Postagola, Dhaka",
+    "phone": "+8801199883730, +88-02-7440691"
+  },
+  {
+    "code": "sher-e-bangla-nagar",
+    "nameEn": "Sher-e-Bangla Nagar",
+    "nameBn": "শেরেবাংলা নগর",
+    "stationEn": "Sher-e-Bangla Nagar Thana",
+    "stationBn": "শেরেবাংলা নগর থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.37568,
+        23.77279
+      ]
+    },
+    "address": "Sayed Mahbub Morshed Avenue, Dhaka",
+    "phone": "+8801199867888, +88-02-9124154"
+  },
+  {
+    "code": "tejgaon-industrial",
+    "nameEn": "Tejgaon Industrial Area",
+    "nameBn": "তেজগাঁও শিল্পাঞ্চল",
+    "stationEn": "Tejgaon Industrial Area Thana",
+    "stationBn": "তেজগাঁও শিল্পাঞ্চল থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40062,
+        23.76535
+      ]
+    },
+    "address": "Plot 440, Tejgaon Industrial Area, Dhaka",
+    "phone": "+8801713373181, +88-02-8870309"
+  },
+  {
+    "code": "turag",
+    "nameEn": "Turag",
+    "nameBn": "তুরাগ",
+    "stationEn": "Turag Thana",
+    "stationBn": "তুরাগ থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.38393,
+        23.8906
+      ]
+    },
+    "address": "",
+    "phone": "+8801199883645, +88-02-8981247"
+  },
+  {
+    "code": "uttara-east",
+    "nameEn": "Uttara East",
+    "nameBn": "উত্তরা পূর্ব",
+    "stationEn": "Uttara East Thana",
+    "stationBn": "উত্তরা পূর্ব থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.40055,
+        23.86698
+      ]
+    },
+    "address": "R-14/D, Sector-4, H-12, Uttara, Dhaka",
+    "phone": "+8801794449948, +88-02-58954126"
+  },
+  {
+    "code": "uttarkhan",
+    "nameEn": "Uttarkhan",
+    "nameBn": "উত্তরখান",
+    "stationEn": "Uttarkhan Thana",
+    "stationBn": "উত্তরখান থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.44171,
+        23.89237
+      ]
+    },
+    "address": "Madarbari, Mazer Road, Uttarkhan, Dhaka",
+    "phone": "+8801794449946, +88-02-8931888"
+  },
+  {
+    "code": "bhashantek",
+    "nameEn": "Bhashantek",
+    "nameBn": "ভাসানটেক",
+    "stationEn": "Bhashantek Thana",
+    "stationBn": "ভাসানটেক থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.39055,
+        23.81089
+      ]
+    },
+    "address": "Bhashantek, Mirpur, Dhaka",
+    "phone": "+8801769914785, +88-02-8713023"
+  },
+  {
+    "code": "vatara",
+    "nameEn": "Vatara",
+    "nameBn": "ভাটারা",
+    "stationEn": "Vatara Thana",
+    "stationBn": "ভাটারা থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.42404,
+        23.79747
+      ]
+    },
+    "address": "Progoti Soroni, Gulshan Notun Bazar, Vatara, Dhaka",
+    "phone": "+8801763661177, +88-02-9897438"
+  },
+  {
+    "code": "wari",
+    "nameEn": "Wari",
+    "nameBn": "ওয়ারী",
+    "stationEn": "Wari Thana",
+    "stationBn": "ওয়ারী থানা",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        90.41884,
+        23.71498
+      ]
+    },
+    "address": "Abdur Rahim Community Centre, 25 Tipu Sultan Road, Dhaka",
+    "phone": "+88-02-9553377"
+  }
+]

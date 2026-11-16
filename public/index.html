@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SafeZone</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+  <nav id="navbar"></nav>
+
+  <div class="alert alert-danger rounded-0 mb-0 text-center py-2">
+    In danger right now? <a class="alert-link" href="tel:999">Call 999</a> (free, day and night).
+  </div>
+
+  <main class="container py-4">
+    <section class="mb-4">
+      <h1 class="h3">Theft alerts for Dhaka</h1>
+      <p class="text-secondary">
+        Every alert comes from a theft report with a police GD that a verifier has checked.
+      </p>
+      <a class="btn btn-primary me-2 mb-2" href="report.html">Report a theft</a>
+      <a class="btn btn-outline-secondary me-2 mb-2" href="map.html">See the map</a>
+      <a class="btn btn-outline-secondary mb-2" href="area.html">Safety by area</a>
+    </section>
+
+    <section>
+      <div class="d-flex flex-wrap justify-content-between align-items-end gap-2 mb-3">
+        <h2 class="h5 mb-0">Latest alerts</h2>
+        <div>
+          <label for="area-filter" class="form-label small mb-1">Show one area</label>
+          <select id="area-filter" class="form-select form-select-sm"></select>
+        </div>
+      </div>
+      <div id="error" class="alert alert-danger d-none" role="alert"></div>
+      <div id="alerts" class="row g-3"></div>
+      <p id="no-alerts" class="text-secondary d-none">No alerts yet. That is good news.</p>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/navbar.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>
