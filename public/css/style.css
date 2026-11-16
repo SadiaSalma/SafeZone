@@ -1,0 +1,34 @@
+/* SafeZone colours and font. Bootstrap does everything else. */
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap");
+
+:root {
+  --bs-primary: #1d4ed8;
+  --bs-primary-rgb: 29, 78, 216;
+  --bs-link-color: #1d4ed8;
+  --bs-link-hover-color: #1e3a8a;
+  --bs-body-bg: #f5f6f8;
+  --bs-body-color: #111827;
+  --bs-body-font-family: "Hind Siliguri", system-ui, sans-serif;
+  --sz-marker: #b45309;
+}
+
+.btn-primary {
+  --bs-btn-bg: #1d4ed8;
+  --bs-btn-border-color: #1d4ed8;
+  --bs-btn-hover-bg: #1e3a8a;
+  --bs-btn-hover-border-color: #1e3a8a;
+}
+
+/* Inputs at 16px so iPhone does not zoom in. */
+.form-control, .form-select { font-size: 16px; }
+
+.card { border-radius: 14px; }
+
+/* Maps need a fixed height or Leaflet shows nothing. */
+.map { height: 420px; border-radius: 14px; }
+.map-small { height: 300px; border-radius: 12px; }
+
+.stat-number { font-size: 2rem; font-weight: 700; }
+
+/* Fields filled by OCR get an orange edge until the person checks them. */
+.from-ocr { border-color: #d97706; background: #fef3c7; }
